@@ -51,7 +51,8 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
+      "quote": "Everyday I get a lot of emails.",
+      "author": "Joao",
       "id": 11
     }
   ],
@@ -60,6 +61,121 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1594740144737,
+      "id": 2
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1594740179617,
+      "id": 3
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1594740181377,
+      "id": 4
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1594741575640,
+      "id": 5
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1594741591747,
+      "id": 6
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1594741641019,
+      "id": 7
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1594741767452,
+      "id": 8
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1594741774254,
+      "id": 9
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1594741778543,
+      "id": 10
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1594741798264,
+      "id": 11
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1594741999124,
+      "id": 12
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742363686,
+      "id": 13
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742369427,
+      "id": 14
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742371383,
+      "id": 15
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742374499,
+      "id": 16
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742377503,
+      "id": 17
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742380007,
+      "id": 18
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742381648,
+      "id": 19
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742383376,
+      "id": 20
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742384890,
+      "id": 21
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742386642,
+      "id": 22
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742388983,
+      "id": 23
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594742397699,
+      "id": 24
     }
   ]
 }

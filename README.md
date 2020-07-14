@@ -63,4 +63,4 @@ As a user, I can:
 
 ## Rubric for Code Challenge
 
-You can find the rubric for code challenge [here](https://github.com/learn-co-curriculum/se-rubrics/blob/master/module-3.md).
+You can find the rubric for this assessment [here](https://github.com/learn-co-curriculum/se-rubrics/blob/master/module-3.md).
