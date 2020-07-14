@@ -31,23 +31,23 @@ document.addEventListener('DOMContentLoaded', () => {
     function addQuote(quote){
 
         let li = ce('li')
-        li.class = 'quote-card'
+        li.className = 'quote-card'
 
         let blockquote = ce('blockquote')
-        blockquote.class = 'blockquote'
+        blockquote.className = 'blockquote'
 
         let p = ce('p')
-        p.class = 'mb-0'
+        p.className = 'mb-0'
         p.innerText = quote.quote
 
         let footer = ce('footer')
-        footer.class = 'blockquote-footer'
+        footer.className = 'blockquote-footer'
         footer.innerText = quote.author
 
         let br = ce('br')
 
         let likeBtn = ce('button')
-        likeBtn.class = 'btn-success'
+        likeBtn.className = 'btn-success'
         likeBtn.innerText = 'Likes: '
 
         let span = ce('span')
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
         likeBtn.append(span)
 
         let deleteBtn = ce('button')
-        deleteBtn.class = 'btn-danger'
+        deleteBtn.className = 'btn-danger'
         deleteBtn.innerText = 'Delete'
 
         blockquote.append(p, footer, br, likeBtn, deleteBtn)
